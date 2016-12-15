@@ -27,12 +27,12 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
     <tr>
       <td><strong>Task C: Turing Culture: Developing Empathetic Programmers</strong><br>
         Follow the instructions <a href = "https://github.com/turingschool/gear-up/blob/master/pre-work/intro_with_empathy.markdown">here</a>.
-        You only have to read and write reflections on two of the articles within throughout the week.  
+        You only have to read and write reflections on two of the articles within throughout the week.
       </td>
       <td>Post your reflections in a new gist and email the link to <a href = "mailto:mike@turing.io">
       mike@turing.io</a>.
       </td>
-      <td>30-45 minutes per article</td> 
+      <td>30-45 minutes per article</td>
     </tr>
 
   </tbody>
@@ -55,7 +55,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
     <tr>
       <td><strong>Task D- Set up your environment (VS Code, Ruby, etc.)</strong><br><br>
       <strong>If you are a Mac user:</strong> Watch <a href="https://vimeo.com/154607937">this screencast</a> or read <a href="https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/environment_setup.markdown">this post</a> to guide you. The screencast and the post cover the same information.<br><br>
-      <strong>If you are a Windows user:</strong> Ruby is trickier to set up on Windows machines. In addition, the commands you'll be using on a Mac while at Turing will be different. In order to get started on a Windows machine, you'll complete the prework using the [Cloud9](https://c9.io/) online IDE by following the instructions below: 
+      <strong>If you are a Windows user:</strong> Ruby is trickier to set up on Windows machines. In addition, the commands you'll be using on a Mac while at Turing will be different. In order to get started on a Windows machine, you'll complete the prework using the [Cloud9](https://c9.io/) online IDE by following the instructions below:
 
 <li>Click "Try it Now"</li>
 <li>Fill in username, email, and password</li>
@@ -66,7 +66,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
 <li>Don't fill in or select anything else; just click "Create workspace" at the bottom</li>
 <li>Wait for your workspace to load </li>
 <li>The navy blue box at the bottom is your command line (referred to as "Terminal" in some reference materials). The sidebar on the left-hand side is your file tree. The area in the middle is your text editor. </li>
-      
+
       </td>
       <td>Respond to the following questions in your Gist:<br>
       <ul>
@@ -113,12 +113,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
       <th>Time Frame</th>
     </tr>
     <tr>
-      <td><strong>Task E-</strong> Read AND do these command line exercises in your terminal: http://cli.learncodethehardway.org/book <br>For today:<br>
-        <ul>
-          <li>Make A Directory (mkdir)</li>
-          <li>Change Directory (cd)</li>
-          <li>List Directory (ls)</li>
-        </ul>
+      <td><strong>Task E-</strong>Continue work on the Command Line Codecademy class. <br>For today:<br>
       </td>
       <td>Take a screenshot of your terminal after completing each exercise, and post all three as comments to your Gist.</td>
       <td>20 minutes</td>
