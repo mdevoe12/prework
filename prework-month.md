@@ -39,7 +39,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
         Follow the instructions <a href = "https://github.com/turingschool/professional_skills/blob/master/pre-work/pre-work.md">here</a>.
         You have three readings and written reflections to complete throughout the month.
       </td>
-      <td>Post your reflections in a new gist and email the link to <a href = "mailto:mike@turing.io">
+      <td>Post your reflections in a new gist and email the link to <a href = "mailto:allison@turing.io">
       mike@turing.io</a>.
       </td>
       <td>Approximately 90 minutes total</td>
