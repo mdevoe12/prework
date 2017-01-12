@@ -35,7 +35,7 @@
         You have three readings and written reflections to complete throughout the week.
       </td>
       <td>Post your reflections in a new gist and email the link to <a href = "mailto:allison@turing.io">
-      mike@turing.io</a>.
+      allison@turing.io</a>.
       </td>
       <td>Approximately 90 minutes total</td>
     </tr>
