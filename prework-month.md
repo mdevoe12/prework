@@ -34,6 +34,16 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
       </td>
       <td>30-45 minutes per article</td>
     </tr>
+     <tr>
+      <td><strong>Task D: Professional Development Pre-Work: Developing Mindsets to Succeed</strong><br>
+        Follow the instructions <a href = "https://github.com/turingschool/professional_skills/blob/master/pre-work/pre-work.md">here</a>.
+        You have three readings and written reflections to complete throughout the month.
+      </td>
+      <td>Post your reflections in a new gist and email the link to <a href = "mailto:mike@turing.io">
+      mike@turing.io</a>.
+      </td>
+      <td>Approximately 90 minutes total</td>
+    </tr>
 
   </tbody>
 </table>
