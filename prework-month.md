@@ -36,7 +36,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
     </tr>
      <tr>
       <td><strong>Task D: Professional Development Pre-Work: Developing Mindsets to Succeed</strong><br>
-        Follow the instructions <a href = "https://github.com/turingschool/professional_skills/blob/master/pre-work/pre-work.md">here</a>.
+        Follow the instructions <a href = "https://github.com/turingschool/professional_skills/blob/master/pre-work/pd_pre-work.md">here</a>.
         You have three readings and written reflections to complete throughout the month.
       </td>
       <td>Post your reflections in a new gist and email the link to <a href = "mailto:allison@turing.io">
