@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td><strong>Task C: Turing Culture: Developing Empathetic Programmers</strong><br>
-        Follow the instructions <a href = "https://github.com/turingschool/gear-up/blob/master/pre-work/intro_with_empathy.markdown">here</a>.
+        Follow the instructions <a href = "https://github.com/turingschool/career-development-curriculum/blob/master/prework/gear_up_prework.md">here</a>.
         You only have to read and write reflections on two of the articles within throughout the week.  
       </td>
       <td>Post your reflections in a new gist and email the link to <a href = "mailto:mike@turing.io">
@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td><strong>Task D: Professional Development Pre-Work: Developing Mindsets to Succeed</strong><br>
-        Follow the instructions <a href = "https://github.com/turingschool/professional_skills/blob/master/pre-work/pd_pre-work.md">here</a>.
+        Follow the instructions <a href = "https://github.com/turingschool/career-development-curriculum/blob/master/prework/pd_prework.md">here</a>.
         You have three readings and written reflections to complete throughout the week.
       </td>
       <td>Post your reflections in a new gist and email the link to <a href = "mailto:allison@turing.io">
