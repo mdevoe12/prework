@@ -16,7 +16,7 @@
 
 * How do you open Atom from your Terminal?
 
-* MHD - Type "atom ." and hit 'Return'
+*MHD - Type "atom ." and hit 'Return'
 
 * What is the file extension for a Ruby file?
 
