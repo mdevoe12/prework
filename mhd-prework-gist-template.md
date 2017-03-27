@@ -15,10 +15,14 @@
 * How do you open Atom from your Terminal?
 * MHD - Type "atom ." and hit 'Return'
 * What is the file extension for a Ruby file?
+
 *MHD - *.rb
+
 * What is the Atom shortcut for hiding/ showing your file tree view?
+
 *MHD - Command + \
 * What is the Atom shortcut for quickly finding a file (fuzzy finder)?
+
 *MHD - Command + t
 
 ### Task E- The Command Line:
