@@ -11,18 +11,24 @@
 ### Task D- Set up your Environment:
 
 * Did you run into any issues?
+*MHD - Not that I know of. Things seem to look good.
 * How do you open Atom from your Terminal?
 * MHD - Type "atom ." and hit 'Return'
 * What is the file extension for a Ruby file?
+*MHD - *.rb
 * What is the Atom shortcut for hiding/ showing your file tree view?
+*MHD - Command + \
 * What is the Atom shortcut for quickly finding a file (fuzzy finder)?
+*MHD - Command + t
 
 ### Task E- The Command Line:
 * screenshots of your terminal after each exercise will be posted in comments
 
 **Day One Questions:**
 * What does pwd stand for, and how is this command helpful?
+*MHD - pwd = "present working directory". This will display the directory in which you are currently working.
 * What does hostname tell you, and what shows up in YOUR terminal when you type hostname?
+*MHD - hostname tells you the "name" assigned to your computer for networking purposes. My specific hostname = Matthews-Macbook-Pro.local
 
 ### Task F- Learn Ruby:
 
